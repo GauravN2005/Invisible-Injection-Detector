@@ -19,7 +19,8 @@ class AnalyzeResponse(BaseModel):
     extracted_text: str
     normalized_text: str
     prediction: str
-    confidence: float
+    prediction_confidence: float
+    attack_probability: float
     matches: list[str]
     risk_score: float
     severity: str

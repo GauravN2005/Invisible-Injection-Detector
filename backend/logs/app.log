@@ -5,3 +5,112 @@
 2026-07-17 11:22:43 | INFO | Risk=52.0 | Severity=Medium
 2026-07-17 11:22:43 | INFO | Action=Warn
 2026-07-17 11:22:43 | INFO | Analysis Completed Successfully
+2026-07-17 14:18:15 | INFO | Started Analysis | Type=text
+2026-07-17 14:18:15 | INFO | Extraction Completed
+2026-07-17 14:18:15 | INFO | Normalization Completed
+2026-07-17 14:18:15 | INFO | Prediction=Prompt Injection | Confidence=0.6
+2026-07-17 14:18:15 | INFO | Risk=52.0 | Severity=Medium
+2026-07-17 14:18:15 | INFO | Action=Warn
+2026-07-17 14:18:15 | INFO | Analysis Completed Successfully
+2026-07-17 14:26:31 | INFO | Started Analysis | Type=text
+2026-07-17 14:26:31 | INFO | Extraction Completed
+2026-07-17 14:26:31 | INFO | Normalization Completed
+2026-07-17 14:26:31 | INFO | Prediction=Safe | Confidence=0.95
+2026-07-17 14:26:31 | INFO | Risk=66.5 | Severity=High
+2026-07-17 14:26:31 | INFO | Action=Warn
+2026-07-17 14:26:31 | INFO | Analysis Completed Successfully
+2026-07-17 14:28:03 | INFO | Started Analysis | Type=text
+2026-07-17 14:28:03 | INFO | Extraction Completed
+2026-07-17 14:28:03 | INFO | Normalization Completed
+2026-07-17 14:28:03 | INFO | Prediction=Safe | Confidence=0.95
+2026-07-17 14:28:03 | INFO | Risk=66.5 | Severity=High
+2026-07-17 14:28:03 | INFO | Action=Warn
+2026-07-17 14:28:03 | INFO | Analysis Completed Successfully
+2026-07-17 14:29:22 | INFO | Started Analysis | Type=text
+2026-07-17 14:29:22 | INFO | Extraction Completed
+2026-07-17 14:29:22 | INFO | Normalization Completed
+2026-07-17 14:29:22 | INFO | Prediction=Safe | Confidence=0.95
+2026-07-17 14:29:22 | INFO | Risk=66.5 | Severity=High
+2026-07-17 14:29:22 | INFO | Action=Warn
+2026-07-17 14:29:22 | INFO | Analysis Completed Successfully
+2026-07-17 14:38:07 | INFO | Started Analysis | Type=text
+2026-07-17 14:38:07 | INFO | Extraction Completed
+2026-07-17 14:38:07 | INFO | Normalization Completed
+2026-07-17 14:38:07 | INFO | Prediction=Safe | Confidence=0.95
+2026-07-17 14:38:07 | INFO | Risk=66.5 | Severity=High
+2026-07-17 14:38:07 | INFO | Action=Warn
+2026-07-17 14:38:07 | INFO | Analysis Completed Successfully
+2026-07-17 14:45:56 | INFO | Started Analysis | Type=text
+2026-07-17 14:45:56 | INFO | Extraction Completed
+2026-07-17 14:45:56 | INFO | Normalization Completed
+2026-07-17 14:45:56 | INFO | Prediction=Safe | Confidence=0.95
+2026-07-17 14:45:56 | INFO | Risk=66.5 | Severity=High
+2026-07-17 14:45:56 | INFO | Action=Warn
+2026-07-17 14:45:56 | INFO | Analysis Completed Successfully
+2026-07-17 15:06:16 | INFO | Started Analysis | Type=text
+2026-07-17 15:06:16 | INFO | Extraction Completed
+2026-07-17 15:06:16 | INFO | Normalization Completed
+2026-07-17 15:06:16 | INFO | Prediction=Safe | Confidence=0.95 | Attack Probability=0.05
+2026-07-17 15:06:16 | INFO | Risk=4.0 | Severity=Low
+2026-07-17 15:06:16 | INFO | Action=Allow
+2026-07-17 15:06:16 | INFO | Analysis Completed Successfully
+2026-07-17 15:06:37 | INFO | Started Analysis | Type=text
+2026-07-17 15:06:37 | INFO | Extraction Completed
+2026-07-17 15:06:37 | INFO | Normalization Completed
+2026-07-17 15:06:37 | INFO | Prediction=Safe | Confidence=0.95 | Attack Probability=0.05
+2026-07-17 15:06:37 | INFO | Risk=4.0 | Severity=Low
+2026-07-17 15:06:37 | INFO | Action=Allow
+2026-07-17 15:06:37 | INFO | Analysis Completed Successfully
+2026-07-17 15:07:20 | INFO | Started Analysis | Type=text
+2026-07-17 15:07:20 | INFO | Extraction Completed
+2026-07-17 15:07:20 | INFO | Normalization Completed
+2026-07-17 15:07:20 | INFO | Prediction=Safe | Confidence=0.95 | Attack Probability=0.05
+2026-07-17 15:07:20 | INFO | Risk=4.0 | Severity=Low
+2026-07-17 15:07:20 | INFO | Action=Allow
+2026-07-17 15:07:20 | INFO | Analysis Completed Successfully
+2026-07-17 15:12:28 | INFO | Started Analysis | Type=text
+2026-07-17 15:12:28 | INFO | Extraction Completed
+2026-07-17 15:12:28 | INFO | Normalization Completed
+2026-07-17 15:12:28 | INFO | Prediction=Safe | Confidence=0.95 | Attack Probability=0.05
+2026-07-17 15:12:28 | INFO | Risk=4.0 | Severity=Low
+2026-07-17 15:12:28 | INFO | Action=Allow
+2026-07-17 15:12:28 | INFO | Analysis Completed Successfully
+2026-07-17 15:12:32 | INFO | Started Analysis | Type=text
+2026-07-17 15:12:32 | INFO | Extraction Completed
+2026-07-17 15:12:32 | INFO | Normalization Completed
+2026-07-17 15:12:32 | INFO | Prediction=Safe | Confidence=0.95 | Attack Probability=0.05
+2026-07-17 15:12:32 | INFO | Risk=4.0 | Severity=Low
+2026-07-17 15:12:32 | INFO | Action=Allow
+2026-07-17 15:12:32 | INFO | Analysis Completed Successfully
+2026-07-17 15:12:37 | INFO | Started Analysis | Type=text
+2026-07-17 15:12:37 | INFO | Extraction Completed
+2026-07-17 15:12:37 | INFO | Normalization Completed
+2026-07-17 15:12:37 | INFO | Prediction=Safe | Confidence=0.95 | Attack Probability=0.05
+2026-07-17 15:12:37 | INFO | Risk=4.0 | Severity=Low
+2026-07-17 15:12:37 | INFO | Action=Allow
+2026-07-17 15:12:37 | INFO | Analysis Completed Successfully
+2026-07-17 15:16:18 | INFO | Started Analysis | Type=text
+2026-07-17 15:16:18 | INFO | Extraction Completed
+2026-07-17 15:16:18 | INFO | Normalization Completed
+2026-07-17 15:16:18 | INFO | Prediction=Safe | Confidence=0.95 | Attack Probability=0.05
+2026-07-17 15:16:18 | INFO | Risk=4.0 | Severity=Low
+2026-07-17 15:16:18 | INFO | Action=Allow
+2026-07-17 15:16:18 | INFO | Analysis Completed Successfully
+2026-07-17 15:16:42 | INFO | Started Analysis | Type=string
+2026-07-17 15:16:42 | ERROR | Analysis Failed: Unsupported file type
+Traceback (most recent call last):
+  File "C:\Users\roymo\Invisible-Injection-Detector\backend\app\services\analyze_service.py", line 19, in analyze
+    extracted_text = ContentExtractor.extract(
+        content,
+        file_type
+    )
+  File "C:\Users\roymo\Invisible-Injection-Detector\backend\app\services\extractor_service.py", line 25, in extract
+    raise ValueError("Unsupported file type")
+ValueError: Unsupported file type
+2026-07-17 15:17:08 | INFO | Started Analysis | Type=text
+2026-07-17 15:17:08 | INFO | Extraction Completed
+2026-07-17 15:17:08 | INFO | Normalization Completed
+2026-07-17 15:17:08 | INFO | Prediction=Safe | Confidence=0.95 | Attack Probability=0.05
+2026-07-17 15:17:08 | INFO | Risk=4.0 | Severity=Low
+2026-07-17 15:17:08 | INFO | Action=Allow
+2026-07-17 15:17:08 | INFO | Analysis Completed Successfully

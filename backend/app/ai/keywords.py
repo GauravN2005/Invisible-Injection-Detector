@@ -36,6 +36,7 @@ PROMPT_INJECTION_KEYWORDS = [
 
     "admin access",
 
-    "root access"
+    "root access",
 
+    
 ]

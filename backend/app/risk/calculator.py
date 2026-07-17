@@ -1,17 +1,27 @@
 class RiskCalculator:
 
     @staticmethod
-    def calculate(confidence: float, matches: list):
+    def calculate(attack_probability: float, matches: list):
 
-        score = 0
+        score = attack_probability * 80
 
-        # AI confidence contributes up to 70 points
-        score += confidence * 70
-
-        # Each keyword contributes 5 points
         score += len(matches) * 5
 
-        # Cap the score
         score = min(score, 100)
 
         return round(score, 2)
+
+    @staticmethod
+    def severity(score: float):
+
+        if score < 25:
+            return "Low"
+
+        elif score < 50:
+            return "Medium"
+
+        elif score < 75:
+            return "High"
+
+        else:
+            return "Critical"

@@ -16,3 +16,7 @@ class RuleBasedDetector:
                 detected.append(keyword)
 
         return detected
+
+
+class PromptInjectionDetector(RuleBasedDetector):
+    pass

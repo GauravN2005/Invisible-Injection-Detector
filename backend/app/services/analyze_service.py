@@ -37,7 +37,8 @@ class AnalyzeService:
 
             logger.info(
                 f"Prediction={ai_result['prediction']} | "
-                f"Confidence={ai_result['confidence']}"
+                f"Confidence={ai_result['prediction_confidence']} | "
+                f"Attack Probability={ai_result['attack_probability']}"
             )
 
             # Step 4: Risk Scoring
@@ -66,7 +67,9 @@ class AnalyzeService:
                 "extracted_text": extracted_text,
                 "normalized_text": normalized_text,
                 "prediction": ai_result["prediction"],
-                "confidence": ai_result["confidence"],
+                #"confidence": ai_result["confidence"],
+                "prediction_confidence": ai_result["prediction_confidence"],
+                "attack_probability": ai_result["attack_probability"], 
                 "matches": ai_result["matches"],
                 "risk_score": risk_result["risk_score"],
                 "severity": risk_result["severity"],
