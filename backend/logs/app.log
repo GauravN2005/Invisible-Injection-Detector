@@ -1,0 +1,7 @@
+2026-07-17 11:22:43 | INFO | Started Analysis | Type=text
+2026-07-17 11:22:43 | INFO | Extraction Completed
+2026-07-17 11:22:43 | INFO | Normalization Completed
+2026-07-17 11:22:43 | INFO | Prediction=Prompt Injection | Confidence=0.6
+2026-07-17 11:22:43 | INFO | Risk=52.0 | Severity=Medium
+2026-07-17 11:22:43 | INFO | Action=Warn
+2026-07-17 11:22:43 | INFO | Analysis Completed Successfully
