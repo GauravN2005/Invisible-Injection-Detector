@@ -1,0 +1,11 @@
+from bs4 import BeautifulSoup
+
+
+def extract_html(html: str) -> str:
+    """
+    Extract visible text from HTML.
+    """
+
+    soup = BeautifulSoup(html, "html.parser")
+
+    return soup.get_text(separator=" ", strip=True)
